@@ -8,11 +8,11 @@ Homebrew tap for [arthurvasconcelos](https://github.com/arthurvasconcelos) tools
 brew tap arthurvasconcelos/tap
 ```
 
-## Available formulae
+## Available casks
 
-| Formula | Description |
+| Cask | Description |
 |---------|-------------|
-| [overseer](Formula/overseer.rb) | Personal CLI for environment setup and daily automation |
+| [overseer](Casks/overseer.rb) | Personal CLI for environment setup and daily automation |
 
 ## Install
 
